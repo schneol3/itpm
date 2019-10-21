@@ -1,0 +1,20 @@
+#main-header{
+  background-color:rgb(6, 32, 32);
+  color:lightgrey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+body{
+  background-color: rgb(6, 32, 32);
+  color:lightgrey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#main-footer{
+  background-color: rgb(6, 32, 32);
+  color:lightgrey;
+}
+aside{
+  background-color: rgb(6, 32, 32);
+  color:lightgrey;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
